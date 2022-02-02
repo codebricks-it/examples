@@ -1,10 +1,10 @@
-package it.codebricks.example;
+package it.codebricks;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExampleApplicationTests {
+class CodebricksApplicationTests {
 
 	@Test
 	void contextLoads() {
